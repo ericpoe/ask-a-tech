@@ -54,7 +54,7 @@ import config  # from config.py
 class AskATech():
     def run(self):
         logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-                            filename='ask-a-tech_error.log')
+                            filename='./ask-a-tech_error.log')
         self.getGoogleEntries()
 
     def getGoogleEntries(self):
