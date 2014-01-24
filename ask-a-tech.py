@@ -37,7 +37,6 @@ See:
 """
 
 __author__ = 'eric poe'
-__date__ = '2014-01-21'
 
 import socket
 import logging
