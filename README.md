@@ -50,7 +50,7 @@ Build your ask-a-tech Google Form to require a username. Keep the timestamp, use
 
 Your "ask-a-tech (response)" (or similar) spreadsheet will appear similar to the following
 Timestamp  		    |	Username            	|	Question?
--------------------------------------------------------------
+--------------------|---------------------------|------------
 1/13/2014 12:15:00  |	user1@example.com		|   Lorem ipsum dolor sit amet?
 1/15/2014 14:25:35	|	user2@example.com		|	Nunc libero nulla, scelerisque sed facilisis vel?
 
