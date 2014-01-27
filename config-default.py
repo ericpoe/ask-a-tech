@@ -5,7 +5,6 @@ Please rename this file to
 "config.py" and add or replace the information with your own.
 """
 __author__ = 'ericpoe'
-__date__ = '2014-01-21'
 
 ## Google Apps Connection Information
 # The user email/password defined should have edit-rights to the appropriate spreadsheet in Google Drive
