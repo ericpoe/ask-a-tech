@@ -58,3 +58,11 @@ and
 becomes
 
     whd['apikey'] = 'thisIsMyFakeWebHelpDeskAPIKey'
+
+Set up a cronjob or a Windows task to launch the ask-a-tech.py on a regular basis. As an example,
+we have a cronjob to launch `python /location/to/script/ask-a-tech.py` every 10 minutes.
+
+Logging
+-------
+For your convenience, a log file "ask-a-tech_error.log" is created in the same directory in which these scripts are
+running. As its name suggests, it logs the times when an error stops the script from running.
