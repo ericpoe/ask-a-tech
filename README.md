@@ -61,7 +61,7 @@ ask-a-tech questions will go once they have been processed by ask-a-tech.py.
 ### Prepare the python scripts on your server ###
 Copy the ask-a-tech.py and config-default.py files to a location on your server. Rename or copy "config-default.py" to
 "config.py". Edit "config.py" so that the appropriate fields match your setup.
-### Example:
+#### config.py Example:
     gapps['email'] = ''
 becomes
 
