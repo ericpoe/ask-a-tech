@@ -52,7 +52,7 @@ Instructions
 ### Prepare the Ask-A-Tech Google Form ###
 Build your ask-a-tech Google Form to require a username. Keep the timestamp, username, and "question" field.
 
-Your "ask-a-tech (response)" (or similar) spreadsheet will appear similar to the following
+Your "ask-a-tech (response)" (or similar) spreadsheet will appear similar to the following:
 
 | Timestamp | Username | Question? |
 | ------------------ | ----------------- | ------------ |
