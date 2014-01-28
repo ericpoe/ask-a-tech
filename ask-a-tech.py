@@ -62,8 +62,8 @@ class AskATech():
         This code assumes you have a spreadsheet that looks something like this:
 
         Timestamp  		    |	Username            	|	Question?
-        1/13/2014 12:15:00  |	user1@example.com		|   Lorem ipsum dolor sit amet?
-        1/15/2014 14:25:35	|	user2@example.com		|	Nunc libero nulla, scelerisque sed facilisis vel?
+        1/13/2014 12:15:00  |	user1@example.com		|   What is your quest?
+        1/15/2014 14:25:35	|	user2@example.com		|	What is the air-speed velocity of an unladen swallow?
 
         Google Spreadsheets normalizes the column names for the purposes of the API by stripping all non-alphanumerics
         and lower-casing, hence the column names used in the code as "timestamp", "username", and "question".

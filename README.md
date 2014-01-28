@@ -56,8 +56,8 @@ Your "ask-a-tech (response)" (or similar) spreadsheet will appear similar to the
 
 | Timestamp | Username | Question? |
 | ------------------ | ----------------- | ------------ |
-| 1/13/2014 12:15:00 | user1@example.com | Lorem ipsum dolor sit amet? |
-| 1/15/2014 14:25:35 | user2@example.com | Nunc libero nulla, scelerisque sed facilisis vel? |
+| 1/13/2014 12:15:00 | user1@example.com | What is your quest? |
+| 1/15/2014 14:25:35 | user2@example.com | What is the air-speed velocity of an unladen swallow? |
 
 Add a second worksheet to this spreadsheet. Give it a logical name, like "archive." This is where all of the
 ask-a-tech questions will go once they have been processed by ask-a-tech.py.
