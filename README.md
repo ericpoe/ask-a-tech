@@ -35,6 +35,10 @@ Requirements
 ------------
 * Python 2.6+ (tested on Python 2.6.6 and 2.7.6)
     * **NOTE:** This has not been used in Python 3+
+* GData Python Library
+    * `pip install gdata` or
+    * or follow the [official instructions for getting the gdata python library installed]
+    (https://developers.google.com/gdata/articles/python_client_lib/#library "Installing the gdata library").
 * Solarwinds Web Help Desk 12+
     * A tech with a [generated API Key](http://www.webhelpdesk.com/api/#auth "How-to generate an API Key in WHD")
 * Google Form
